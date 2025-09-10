@@ -2,7 +2,7 @@ Swathi Mekala
 
 🎓 B.Tech CSE (2021–2025) | 💻 Full Stack Developer | 🤖 Generative AI Enthusiast
 
-👩‍💻 About Me:
+👩‍💻 About Me
 
 Strong in Java, Python, PHP, PL/SQL
 
